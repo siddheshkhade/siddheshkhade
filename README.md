@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddheshkhade
-- 👀 I’m interested in python,java programming and keen to learn new skils and technologies. 
-- 🌱 I’m currently learning React js,Django,Web developmnt,software development.
+- 👀 I’m interested in python,java programming,Web developmnt,software development. and keen to learn new skils and technologies. 
+- 🌱 I’m currently learning React js,Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
