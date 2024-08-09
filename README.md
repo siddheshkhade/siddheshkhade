@@ -11,7 +11,12 @@
 
 
 
-<h2 align="center">▂▃▅▇█𝙼𝚢 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚊𝚌𝚔█▇▅▃▂</h2>
+<div align="center">
+  <h2 style="text-decoration: underline;">
+    🤖 🌐 𝙼𝚢 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚊𝑐𝚔 👨🏻‍💻 🖱️
+  </h2>
+</div>
+
 
   
  👨‍💻 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤
