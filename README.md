@@ -1,12 +1,17 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there👋+!;This+is+Siddhesh👋;Java+FSD⚡;Technical+Enthusiast+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there👋+!;This+is+Siddhesh👋;Java+FSD⚡;Technical+Geek🚀+" alt="Typing SVG" />
+  </a>
 </div>
 
-![Center Image](https://github.com/user-attachments/assets/92362629-141c-4e6e-99b8-69e018d67670)
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/92362629-141c-4e6e-99b8-69e018d67670" alt="Center Image">
+</div>
 
 
 
-<h2 align="center">▂▃▅▇█▓▒░ 𝙼𝚢 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚊𝚌𝚔 ░▒▓█▇▅▃▂</h2>
+
+<h2 align="center">▂▃▅▇█▓ 𝙼𝚢 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚊𝚌𝚔 ▓█▇▅▃▂</h2>
 
   
  👨‍💻 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤
