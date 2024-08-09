@@ -1,6 +1,6 @@
 -  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there👋+!;This+is+Siddhesh👋;Java+FSD⚡;Technical+Enthusiast+" alt="Typing SVG" /></a>
 
-- ▂▃▅▇█▓▒░ 𝙼𝚢 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚊𝚌𝚔 ░▒▓█▇▅▃▂
+- ▂▃▅▇█▓▒░ 𝙼𝚢 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚝𝚊𝚌𝚔  ░▒▓█▇▅▃▂
   
 - 👨‍💻 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![image](https://github.com/user-attachments/assets/2068f3d5-2f1a-4a9d-905d-78db25892a35) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![image](https://github.com/user-attachments/assets/b5c906d1-e24c-4ac4-b0b6-50983629087a)
@@ -24,7 +24,10 @@
 
 
 
-
+- 📫  Get in Contact with me
+- [![LinkedIn Badge](https://img.shields.io/badge/-Siddhesh%20Khade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhesh-khade-5861831b5/)](https://www.linkedin.com/in/siddhesh-khade-5861831b5/)
+[![Gmail Badge](https://img.shields.io/badge/-Siddhesh%20Khade-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddhesh.khade60@gmail.com)](mailto:siddhesh.khade60@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Siddhesh%20Khade-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/siddhesh_khade_)](https://www.instagram.com/siddhesh_khade_)
 
 
 
